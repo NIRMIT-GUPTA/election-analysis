@@ -21,22 +21,22 @@ Uncover the 3 most interesting stories in the 2026 Tamil Nadu Assembly election 
 
 ## **File Structure**
 
-election-analysis/
-├── analysis_code.py                 # Main analysis script
-├── TN_2026_Election_Analysis.pptx   # Presentation
-├── app.py                           # streamlit web app code
-├── requirements.txt                 # Python dependencies
-├── README.md                        # This file
-├── analysis.md                      # summary of analysis
-├── data/                            # Data folder
-│    ├── tn_2021_results.csv
-│    ├── tn_2026_results.csv
-│    └── constituency_master.csv
-└── results/                         # Output folder
-     ├── 01_vote_share_shift.png
-     ├── 02_regional_seats.png
-     ├── 03_margin_distribution.png
-     └── 04_mandate_strength.png
+- election-analysis/
+- ├── analysis_code.py                 # Main analysis script
+- ├── TN_2026_Election_Analysis.pptx   # Presentation
+- ├── app.py                           # streamlit web app code
+- ├── requirements.txt                 # Python dependencies
+- ├── README.md                        # This file
+- ├── analysis.md                      # summary of analysis
+- ├── data/                            # Data folder
+- │    ├── tn_2021_results.csv
+- │    ├── tn_2026_results.csv
+- │    └── constituency_master.csv
+- └── results/                         # Output folder
+-      ├── 01_vote_share_shift.png
+-      ├── 02_regional_seats.png
+-      ├── 03_margin_distribution.png
+-      └── 04_mandate_strength.png
 
 
 ## **Data set**
