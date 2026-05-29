@@ -71,6 +71,7 @@ This represensts the vote shate of TVK in each region
 #### 2021 Regional Seats by Party
 
 | Region        | DMK | AIADMK |
+|---------------|-----|--------|
 | Chennai Metro | 29  | 0      |
 | North         | 19  | 12     |
 | Central       | 21  | 15     |
@@ -80,7 +81,8 @@ This represensts the vote shate of TVK in each region
 
 #### 2026 Regional Seats by Party (with TVK)
           
-| Region        |AIADMK|DMK | TVK |        
+| Region        |AIADMK|DMK | TVK |  
+|---------------|------|----|-----|
 | Central       |  15  | 8  | 12  |
 | Chennai Metro |  1   | 2  | 29  |
 | Delta         |  4   | 14 | 10  |
@@ -98,12 +100,14 @@ showing both geographic concentration and some spread.
 
 #### Overall Margin Statistics
 
-| Metric                 | 2021           | 2026           | Change  
-| Average Victory Margin | 22,871 votes   | 16,784 votes   | -6086 votes 
+| Metric                 | 2021           | 2026           | Change     |
+|------------------------|----------------|----------------|------------|
+| Average Victory Margin | 22,871 votes   | 16,784 votes   |-6086 votes | 
 
 #### Vote Share Distribution
 
 | Winner Vote Share Range | 2021 Count | 2026 Count | 2021 % | 2026 % |
+|-------------------------|------------|------------|--------|--------|
 | 50%+                    | 70         | 13         | 29.9%  | 5.5%   |
 | 35-50%                  | 162        | 157        | 69.2%  | 67.1%  |
 | <35%                    | 2          | 64         | 0.9%   | 27.4%  |
@@ -155,9 +159,8 @@ This analysis is based entirely on results data. To answer "why" questions would
 **Support with three specific data points:**
 1. "TVK pulled nearly equally from DMK and AIADMK—this is a true realignment"
 2. "Uniform distribution of vote share in each major region"
-3. "Still, voters made clear choices—victory margins actually increased"
+3. "voters made clear choices."
 
 #### Secondary Angles
-- **Regional analysis segment:** Show the 10-point geographic spread
-- **Urban-rural divide:** Explain the 24% vs 14% difference
-- **Mandate strength segment:** Highlight the margin increases
+- **Regional analysis segment:** Show the 15-point geographic spread
+- **Mandate strength segment:** Highlight the margins
