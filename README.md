@@ -38,6 +38,10 @@ Uncover the 3 most interesting stories in the 2026 Tamil Nadu Assembly election 
 -      ├── 03_margin_distribution.png
 -      └── 04_mandate_strength.png
 
+## **Streamlit app dashboard**
+
+The dashboard is deployed on streamlit and can be found using 
+**https://election-analysis-tamil-nadu.streamlit.app/**
 
 ## **Data set**
 
