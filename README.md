@@ -28,6 +28,7 @@ Uncover the 3 most interesting stories in the 2026 Tamil Nadu Assembly election 
 - ├── requirements.txt                 # Python dependencies
 - ├── README.md                        # This file
 - ├── analysis.md                      # summary of analysis
+- ├── app_working.mp4                  # demo of streamlit dashboard app
 - ├── data/                            # Data folder
 - │    ├── tn_2021_results.csv
 - │    ├── tn_2026_results.csv
@@ -42,6 +43,7 @@ Uncover the 3 most interesting stories in the 2026 Tamil Nadu Assembly election 
 
 The dashboard is deployed on streamlit and can be found using 
 **https://election-analysis-tamil-nadu.streamlit.app/**
+and the demo can be seen in 'app_working.mp4'
 
 ## **Data set**
 
