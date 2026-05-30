@@ -45,6 +45,11 @@ The dashboard is deployed on streamlit and can be found using
 **https://election-analysis-tamil-nadu.streamlit.app/**
 and the demo can be seen in 'app_working.mp4'
 
+## **Video Walkthrough**
+the Video walkthrough is available at the following link 
+https://drive.google.com/drive/folders/1ftX2Or8_9leEVPZTm7FXAKzvEOvPi1Aw?usp=sharing
+
+
 ## **Data set**
 
 **Taken from the official code basics RPC website**
